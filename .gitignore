@@ -18,3 +18,7 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+# Cache and Autosave
+*cache*
+*autosave*
