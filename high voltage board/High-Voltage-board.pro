@@ -1,4 +1,4 @@
-update=gio 08 set 2016 17:55:37 CEST
+update=ven 09 set 2016 10:58:19 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=../lib
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -60,3 +60,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=references
 LibName31=relays
+LibName32=OAED-library
