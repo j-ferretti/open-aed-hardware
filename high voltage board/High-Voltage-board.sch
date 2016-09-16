@@ -38,8 +38,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 4
 Title "High Voltage Board"
-Date "2016-09-09"
-Rev "0.1"
+Date "2016-09-16"
+Rev "0.1.2"
 Comp ""
 Comment1 ""
 Comment2 ""

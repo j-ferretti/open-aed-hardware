@@ -1,4 +1,4 @@
-update=ven 09 set 2016 10:58:19 CEST
+update=ven 16 set 2016 19:06:42 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=../lib
@@ -61,3 +59,5 @@ LibName29=valves
 LibName30=references
 LibName31=relays
 LibName32=OAED-library
+[general]
+version=1
