@@ -1,4 +1,4 @@
-update=ven 16 set 2016 19:06:42 CEST
+update=30/05/2017 11:30:01
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,5 +59,15 @@ LibName29=valves
 LibName30=references
 LibName31=relays
 LibName32=OAED-library
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [general]
 version=1

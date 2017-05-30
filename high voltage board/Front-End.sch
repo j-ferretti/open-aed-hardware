@@ -58,9 +58,9 @@ F 3 "" H 4100 3700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text HLabel 2700 3350 0    60   Input ~ 0
-VIN
+VIN+
 Text HLabel 2700 3550 0    60   UnSpc ~ 0
-GND
+VIN-
 Wire Wire Line
 	2700 3350 3550 3350
 Wire Wire Line
